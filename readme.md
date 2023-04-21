@@ -24,12 +24,12 @@ The dataset folder contains the following files:
 
 Column name | Description
 
-PRODUCT_ID	| Represents a unique identification of a product
-TITLE	| Represents the title of the product
-DESCRIPTION	| Represents the description of the product
-BULLET_POINTS	| Represents the bullet points about the product
-PRODUCT_TYPE_ID	| Represents the product type 
-PRODUCT_LENGTH	| Represents the length of the product
+    PRODUCT_ID	| Represents a unique identification of a product
+    TITLE	| Represents the title of the product
+    DESCRIPTION	| Represents the description of the product
+    BULLET_POINTS	| Represents the bullet points about the product
+    PRODUCT_TYPE_ID	| Represents the product type 
+    PRODUCT_LENGTH	| Represents the length of the product
 
 ## Evaluation metric
 
