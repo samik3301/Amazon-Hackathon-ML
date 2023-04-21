@@ -14,9 +14,11 @@ You are required to build a machine learning model that can predict product leng
 
 The dataset folder contains the following files: 
 
-train.csv: 2249698 x 6
-test.csv: 734736 x 5
-sample_submission.csv: 734736 x 2
+    train.csv: 2249698 x 6
+
+    test.csv: 734736 x 5
+    
+    sample_submission.csv: 734736 x 2
 
 ## The columns provided in the dataset are as follows:
 
